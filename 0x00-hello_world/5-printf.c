@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - main entry function
  *
  * display text using printf
