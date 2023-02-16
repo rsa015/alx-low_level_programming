@@ -4,6 +4,8 @@
  * main - main entry function
  *
  * display text using printf
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
