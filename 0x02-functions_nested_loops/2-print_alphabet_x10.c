@@ -1,5 +1,5 @@
 #include "main.h"
-/*file: 2-print_alphabet_10x.c*/
+
 /**
  * print_alphabet_x10 - print alphabet in lower case 10 times
  *
@@ -7,14 +7,13 @@
  */
 void print_alphabet_10x(void)
 {
-	int i;
-	char ch;
+	int i, e;
 
 	for (i = 0; i <= 9; i++)
 	{
-		for (ch = 'a'; ch <= 'z'; ch++)
+		for (e = 97; e <= 122; e++)
 		{
-			_putchar(ch);
+			_putchar(e);
 		}
 	_putchar('\n');
 	}
