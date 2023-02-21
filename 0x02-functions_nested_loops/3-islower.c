@@ -3,6 +3,8 @@
 /**
  * _islower - Checks if the params is a lower case value.
  *
+ * @c: The charater in ASCII code
+ *
  * Return: Always 0 (Success)
  */
 int _islower(int c)
