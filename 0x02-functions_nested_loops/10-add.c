@@ -8,7 +8,7 @@
  *
  * Return: The summation of integer a and b
  */
-int add (int a, int b)
+int add(int a, int b)
 {
 	return (a + b);
 }
