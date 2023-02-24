@@ -4,7 +4,6 @@
 /**
  * _putchar - write the char to stdout.
  * @c: character writting to stdout.
- *
  * Return: On Success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
