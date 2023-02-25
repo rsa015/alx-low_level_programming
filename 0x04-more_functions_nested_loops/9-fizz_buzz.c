@@ -10,7 +10,7 @@ int main(void)
 
 	n = 1;
 	printf("%d", n);
-	for (n = 2; n < 100; n++)
+	for (n = 2; n <= 100; n++)
 	{
 		if ((n % 3 == 0) && (n % 5 == 0))
 		{
@@ -29,6 +29,6 @@ int main(void)
 			printf(" %d", n);
 		}
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
-}	
+}
