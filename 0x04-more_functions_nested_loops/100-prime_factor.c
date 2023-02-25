@@ -2,11 +2,13 @@
 
 /**
  * main - prints the largest prime factor.
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	long int n, p;
+
 	n = 612852475143;
 	for (p = 2; p <= n; p++)
 	{
