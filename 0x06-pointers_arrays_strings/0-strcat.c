@@ -1,3 +1,4 @@
+#include <stdio.h>;
 #include "main.h"
 
 /**
@@ -20,7 +21,7 @@ char *_strcat(char *dest, char *src)
 	while (b >= 0)
 	{
 		*(dest + a) = *(src + b);
-		if (*(src + b)) == '\0')
+		if (*(src + b) == '\0')
 			break;
 		a++;
 		b++;
