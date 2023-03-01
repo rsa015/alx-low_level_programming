@@ -3,6 +3,7 @@
 /**
  * string_toupper - transform lowercase string into uppercase
  * @s: string parameter
+ *
  * Return: pointer to dest
  */
 
