@@ -3,8 +3,9 @@
 /**
  * string_toupper - transform lowercase string into uppercase
  * @s: string to transform.
- * Return: A pointer
+ * Return: char, pointer to the uppercase format string.
  */
+
 char *string_toupper(char *s)
 {
 	int i = 0;
