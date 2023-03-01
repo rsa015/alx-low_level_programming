@@ -2,8 +2,8 @@
 
 /**
  * string_toupper - transform lowercase string into uppercase
- * @s: string to transform.
- * Return: char, pointer to the uppercase format string.
+ * @s: string parameter
+ * Return: pointer to dest
  */
 
 char *string_toupper(char *s)
