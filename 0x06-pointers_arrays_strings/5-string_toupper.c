@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * string_toupper - transform lowercase string into uppercase
- * @s: string parameter
- *
+ * string_toupper - changes all lowercase lettes of a string to
+ * uppercase
+ * @s: input string
  * Return: pointer to dest
  */
 
