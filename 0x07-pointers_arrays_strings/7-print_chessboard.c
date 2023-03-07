@@ -5,7 +5,7 @@
  * @a : chessboard array container.
  * Return : void.
  */
-void print_cchessboard(char (*a)[8])
+void print_chessboard(char (*a)[8])
 {
 	unsigned int i, j = 0;
 
