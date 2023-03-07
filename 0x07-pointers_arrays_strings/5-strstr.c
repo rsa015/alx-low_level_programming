@@ -5,7 +5,7 @@
  * in string haystack.
  * @haystack: main string.
  * @needle: substring.
- * Return: pointer to the beginning of the located substring,
+ * Return: pointer to the beginning of the located substring or
  * NULL if string not found.
  */
 char *_strstr(char *haystack, char *needle)
