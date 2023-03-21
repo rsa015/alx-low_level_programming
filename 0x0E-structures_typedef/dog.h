@@ -23,7 +23,7 @@ struct dog
 	char *owner;
 };
 
-void init_dog(struct dog_o, char *name, float age, char *owner);
+void init_dog(struct dog *dog_o, char *name, float age, char *owner);
 
 
 #endif
