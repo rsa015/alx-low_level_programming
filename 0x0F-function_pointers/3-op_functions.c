@@ -15,7 +15,7 @@ int op_add(int a, int b)
  * @b: second number.
  * Return: difference
  */
-int op_sub(int , int b)
+int op_sub(int a, int b)
 {
 	return (a - b);
 }
@@ -44,7 +44,7 @@ int op_div(int a, int b)
 		printf("Error\n");
 		exit(100);
 	}
-	return (a/b);
+	return (a / b);
 }
 
 /**
