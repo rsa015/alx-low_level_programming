@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - print numbers.
- * @seprator: string to seperate the numbers.
+ * @seperator: string to seperate the numbers.
  * @n: number of integer passed to the function.
  *
  * Return: no return
